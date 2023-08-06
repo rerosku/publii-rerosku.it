@@ -1,0 +1,14 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Rerosku.it",
+    "description": "",
+    "home_page_url": "https://rerosku.github.io/publii-rerosku.it",
+    "feed_url": "https://rerosku.github.io/publii-rerosku.it/feed.json",
+    "user_comment": "",
+    "icon": "https://rerosku.github.io/publii-rerosku.it/media/website/659fbe0f8c6e4f9e8329bad3d37d1a6e.png",
+    "author": {
+        "name": "Alex"
+    },
+    "items": [
+    ]
+}

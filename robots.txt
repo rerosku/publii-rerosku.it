@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://rerosku.github.io/publii-rerosku.it/sitemap.xml
