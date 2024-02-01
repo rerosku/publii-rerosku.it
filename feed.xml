@@ -3,12 +3,31 @@
     <title>Rerosku.it</title>
     <link href="https://rerosku.it/feed.xml" rel="self" />
     <link href="https://rerosku.it" />
-    <updated>2024-02-01T23:08:09+01:00</updated>
+    <updated>2024-02-01T23:19:22+01:00</updated>
     <author>
         <name>Alex</name>
     </author>
     <id>https://rerosku.it</id>
 
+    <entry>
+        <title>Movie-Web: La Tua Destinazione per lo Streaming di Film in Modo Semplice</title>
+        <author>
+            <name>Alex</name>
+        </author>
+        <link href="https://rerosku.it/movie-web-la-tua-destinazione-per-lo-streaming-di-film-in-modo-semplice/"/>
+        <id>https://rerosku.it/movie-web-la-tua-destinazione-per-lo-streaming-di-film-in-modo-semplice/</id>
+        <media:content url="https://rerosku.it/media/posts/3/movie-featured.jpg" medium="image" />
+            <category term="Alternative Tecnologiche"/>
+
+        <updated>2024-02-01T23:19:22+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://rerosku.it/media/posts/3/movie-featured.jpg" alt="" />
+                    Se sei alla ricerca di un modo semplice ed intuitivo per guardare&hellip;
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>SpoTube, l&#x27;alternativa a Spotify</title>
         <author>
